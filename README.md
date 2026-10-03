@@ -10,8 +10,8 @@ I build and ship SaaS, fintech, ERP and IoT platforms: Laravel on the backend, V
 - **Data & real-time:** MySQL, Redis, MQTT, WebSockets
 
 ## Selected work
-- [pos-system](https://github.com/bola-cloud/pos-system): multi-tenant POS and inventory system
-- [chat-app](https://github.com/bola-cloud/chat-app): real-time chat with WebSockets
+- [pos-system](https://github.com/bola-cloud/sketo): multi-tenant POS and inventory system
+- [chat-app](https://github.com/bola-cloud/follower): real-time Follow and likes orders with WebSockets
 
 Most of my client work is private under NDA.
 
